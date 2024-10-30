@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="416ecdb0-9577-427a-9cb8-624069bf1b57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hatenablog-auto-migrator.php" beforeDir="false" afterPath="$PROJECT_DIR$/hatenablog-auto-migrator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="WordPress Main Plugin File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1blRfSxBTrywYSJgyqN0w99Fucm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HBAM/V1" />
+      <recent name="$PROJECT_DIR$/HBAM" />
+      <recent name="$PROJECT_DIR$/plugin/Classes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="416ecdb0-9577-427a-9cb8-624069bf1b57" name="Default Changelist" comment="" />
+      <created>1589204796837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589204796837</updated>
+      <workItem from="1589204798751" duration="18813000" />
+      <workItem from="1589328979647" duration="4618000" />
+      <workItem from="1589371911730" duration="78000" />
+      <workItem from="1589371996239" duration="97000" />
+      <workItem from="1589372113892" duration="103000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update v1.0.1">
+      <created>1589331261032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589331261032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update v1.0.2">
+      <created>1589370853029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589370853029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <MESSAGE value="Update v1.0.1" />
+    <MESSAGE value="Update v1.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update v1.0.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="261" key="#CLI_Interpreters" timestamp="1589204835248">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="561" y="261" key="#CLI_Interpreters/0.0.1920.1200@0.0.1920.1200" timestamp="1589204835248" />
+    <state x="640" y="158" width="666" height="883" key="#PHP" timestamp="1589204837874">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="640" y="158" width="666" height="883" key="#PHP/0.0.1920.1200@0.0.1920.1200" timestamp="1589204837874" />
+    <state x="424" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589204894850">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="424" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1589204894850" />
+    <state x="489" y="108" key="CommitChangelistDialog2" timestamp="1589370844172">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="489" y="108" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1589370844172" />
+    <state x="694" y="317" key="NewPhpClassDialog" timestamp="1589229898729">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="694" y="317" key="NewPhpClassDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1589229898729" />
+    <state x="461" y="239" key="SettingsEditor" timestamp="1589372174594">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="461" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1589372174594" />
+    <state x="690" y="350" width="540" height="540" key="StructurePopup" timestamp="1589222868005">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="690" y="350" width="540" height="540" key="StructurePopup/0.0.1920.1200@0.0.1920.1200" timestamp="1589222868005" />
+    <state x="661" y="341" width="598" height="518" key="find.popup" timestamp="1589231575054">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="661" y="341" width="598" height="518" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1589231575054" />
+    <state x="625" y="285" width="670" height="675" key="run.anything.popup" timestamp="1589372136907">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="285" width="670" height="675" key="run.anything.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1589372136907" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1589372141310">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1589372141310" />
+    <state x="625" y="271" width="670" height="676" key="search.everywhere.popup/0.23.1920.1138@0.23.1920.1138" timestamp="1589329368224" />
+    <state x="660" y="506" key="svn.passwordDialog" timestamp="1589331252468">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="660" y="506" key="svn.passwordDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1589331252468" />
+    <state x="798" y="398" key="svn.repositoryBrowser" timestamp="1589371982447">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="798" y="398" key="svn.repositoryBrowser/0.0.1920.1200@0.0.1920.1200" timestamp="1589371982447" />
+    <state x="798" y="398" key="svn.repositoryBrowser/0.23.1920.1138@0.23.1920.1138" timestamp="1589329830843" />
+    <state x="674" y="370" key="svn4idea.import.options" timestamp="1589329738861">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="674" y="370" key="svn4idea.import.options/0.0.1920.1200@0.0.1920.1200" timestamp="1589329738861" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../hatenablog-auto-migrator-dev-wp</wordpressPath>
+  </component>
+</project>

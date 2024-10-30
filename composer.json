@@ -1,0 +1,19 @@
+{
+  "name": "tadatsu/hatenablog-auto-migrator",
+  "authors": [
+    {
+      "name": "Tadatsu",
+      "email": "tada.purple.haze@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.5",
+    "ext-json": "*",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "HBAM\\": "HBAM/"
+    }
+  }
+}
